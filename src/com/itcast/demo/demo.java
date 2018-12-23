@@ -6,4 +6,9 @@ public class demo {
         System.out.println("hello");
     }
 
+    public void  test1(){
+        int b = 12;
+
+
+    }
 }
