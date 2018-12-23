@@ -6,4 +6,8 @@ public class demo {
         System.out.println("hello");
     }
 
+
+    public void test(){
+        int a = 11;
+    }
 }
