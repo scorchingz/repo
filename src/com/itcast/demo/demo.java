@@ -11,4 +11,8 @@ public class demo {
 
 
     }
+
+    public void test(){
+        int a = 11;
+    }
 }
